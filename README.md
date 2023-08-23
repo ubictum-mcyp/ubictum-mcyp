@@ -1,4 +1,9 @@
 ### Mejora Continua y Productividad 
 
-La mejora continua es un proceso 
 
+## Temas
+
+- **Productividad** : Tiempos y movimientos
+    -   **3PL**
+    - **RRRP**
+- **RPV**: Comportamiento, distribución. 
