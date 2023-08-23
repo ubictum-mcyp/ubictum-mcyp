@@ -1,4 +1,4 @@
 ### Mejora Continua y Productividad 
 
-Es un espacio por definir 
+La mejora continua es un proceso 
 
