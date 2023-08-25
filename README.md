@@ -1,4 +1,17 @@
-### Mejora Continua y Productividad 
+# :car: Mejora Continua y Productividad x
+
+### Integrantes
+
+- Juan Carlos Noriega Casas
+- Daniel Rojas Sánchez
+- Alinne Zaldivar Olvera
+- Orlando Nuñez 
+
+
+
+## Revisa la productividad !!
+
+![](Img/produ.png)
 
 
 ## Temas
